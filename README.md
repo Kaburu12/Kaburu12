@@ -13,13 +13,11 @@
 
 - 👨‍💻 All of my projects are available at: [https://kaburu12.github.io/My-portfolio/](https://kaburu12.github.io/My-portfolio/)
 
-- 📝 I regularly write articles on: [https://medium.com/@michael.kaburu](https://medium.com/@michael.kaburu)
-
 - 💬 Ask me about : **React & Ruby on Rails**
 
 - 📫 How to reach me: Email : **kabururm@gmail.com** , Phone : +254796225100
 
-- ⚡ Fun fact **I'm a DJ 😂**
+- ⚡ Fun fact : **I'm a DJ 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
