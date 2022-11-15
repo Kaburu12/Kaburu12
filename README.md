@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://kaburu12.github.io/My-portfolio/](https://kaburu12.github.io/My-portfolio/)
 
-- 💬 Ask me about : **React & Ruby on Rails**
+- 💬 Ask me about : **React, JavaScript & Ruby on Rails**
 
 - 📫 How to reach me: Email : **kabururm@gmail.com** , Phone : +254796225100
 
