@@ -1,7 +1,7 @@
 <div align="center"> <img align="center" alt="Coding"  src="https://media.tenor.com/7Tu-pBzg0_kAAAAd/programming.gif"></div> 
 
 <h1 align="center">Hi 👋, I'm Michael Kaburu</h1>
-<h3 align="center">A passionate fullstack developer from Kenya</h3>
+<h3 align="center">A passionate AI solutions developer from Kenya</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
